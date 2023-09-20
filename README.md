@@ -37,7 +37,7 @@ python main.py
 
 ## GUI Screenshot
 <p align="center">
-    <img src="https://github.com/Scavix/replicate-sdxl-python-desktop-interface/blob/main/screenshot.PNG" />
+    <img src="https://github.com/Scavix/replicate-sdxl-python-desktop-interface/blob/main/GUI.PNG" />
 </p>
 
 ## License
